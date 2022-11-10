@@ -1,7 +1,5 @@
 /*
  * Name: Deemah Almusbeh
- * ID: 2009024
- * Class: B1
  * 
  */
 package rock.paper.scissors.game;
